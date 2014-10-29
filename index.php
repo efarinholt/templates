@@ -20,7 +20,6 @@
 <script type="text/javascript" src="<?php echo $metaroot; ?>js/bootstrapValidator.js"></script>
 
 <link rel="stylesheet" href="<?php echo $metaroot; ?>css/bootstrap.min.css" />
-<link rel="stylesheet" href="<?php echo $metaroot; ?>css/main.css" />
 
 <!--[if lt IE 9]>
 	<script src="<?php echo $metaroot; ?>js/html5shiv.js"></script>
